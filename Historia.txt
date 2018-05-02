@@ -1,0 +1,28 @@
+La asociacion deportiva de Huichapan te ha contratado para crear un software 
+el cual permita llevar el control de las actividades deportiva de la zona,
+entre los requerimietos se te pide lo siguiente de forma de lista, se pueden
+capturar tantos deportes como se requiera y aparte cada deporte se puede capturar
+varios equipos, se pueden crear torneos de cierto deporte donde se tiene que 
+especificar que equipos se participara, para hacer el torneo mas justo, el 
+orden de los partidos sera generado por la computadora al azar. 
+
+*Cada torneo gana el que obtenga mas puntos, juego ganado 3 puntos, 
+empatado 2 puntos y perdido 1 punto, a vs b 2-1 es igual a 3-1
+*Al final de capturar los resultados el software debe indicar que equipo 
+debe indicar que equipo obtuvo primero y segundo lugar, para la cual debera 
+observarse en graficocon los puntos obtenidos por cada equipo en un 
+determinado torneo,
+*Tambien debera generar un reporte en formato .pdf sobre todo el historico
+del torneo
+
+REQUERIMIENTOS TECNICOS
+Se requiere dos tipos de aplicaciones, una protegido por usuario y contraseña 
+(La cual podra ser modificada, el cual se administra todos los datos las 
+puntuaciones de los partidos del encuentro (Director o un arbitro)), la segunda
+aplicacion sera para cualquier persona la cual solo permitara ver los 
+estadisticos de cierto deporte y
+ cierto torneo .........Deporte __________________________, Torneo______________ Button 
+
+La idea es que la segunda aplicación, se coloque en un sitio web para descargar,
+no implementar 
+     ggghghvgvggh
